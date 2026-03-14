@@ -1,0 +1,30 @@
+Steps to Execute the Gesture Controller Python Program
+
+Go to Your Project File Location:
+- Open File Explorer.
+- Navigate to the folder where your project is saved.
+
+Locate the Main Python File:
+- Find the file named gesture-controller.py inside your project folder.
+
+Open Git Bash at That Location:
+- Right-click anywhere in the folder (not on the file).
+- Click on "Show more options" (if you're on Windows 11).
+- Select “Open Git Bash here”.
+
+Run the Python File:
+- In the Git Bash terminal, type the following command:
+  python gesture-controller.py
+- Then press Enter.
+
+Webcam Will Open Automatically:
+- The program will start running.
+- Your camera will turn on, and the screen will show your hand.
+
+Control the Mouse Using Hand Gestures:
+- Try different hand gestures to see how your mouse pointer moves.
+- You can minimize the window but keep the program running.
+
+To Stop the Program:
+- Return to the Git Bash window.
+- Press Ctrl + C to stop the execution.
